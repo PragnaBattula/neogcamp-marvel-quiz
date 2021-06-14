@@ -19,7 +19,7 @@ var highScores = [
 },
 ];
  
-//function
+//function play
 function play(question,answer){
   var useranswer = readlineSync.question(question);
 
