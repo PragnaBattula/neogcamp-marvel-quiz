@@ -37,10 +37,6 @@ function play(question,answer){
    console.log("------------------");
 }
 
-//call function
-
-
-
 // array of objects
 
 var questions = [
